@@ -1,0 +1,27 @@
+Difference between document and windows object.
+
+Document: 
+
+     Document is the entry point into the DOM (Ex) document.querySelector().
+
+     DOM means Documnet object model and it is a structured representation os HTML document. The DOM allows us to use Javascript to access HTML element and style in order to access
+HTML element and style in order to manipulate them.
+     
+     EG :- Change Text, HTML attribute and even CSS styles from our Javascript.
+
+     DOM automatically created by the browser as soon as the HTM page loads and it is stored in tree structured. The DOM is a complete representation of the HTML document.
+     
+     DOM is not part of Javascript. DOM properties and methods to manipulate the DOM is not part of javascript.The javascript comes from ECMA script and all the DOM releated 
+stuff not in the ECMA Script.
+
+
+Windows:
+
+     As we know document is represtation of HTML but window is the above the level or parent for that document technically document is inside the window only.
+     
+     For Example:
+            
+         In console window.document and this document is same only both indicates the HTML document.
+        
+         And not only document there are many other objects is also there in windows like alert, prompt and console is also a object.
+    

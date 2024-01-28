@@ -1,0 +1,81 @@
+1)Write a blog on Difference between HTTP1.1 vs HTTP2?
+
+HTTP means - Hypertext Transfer Protocol version
+
+HTTP1.1 :
+
+ * It is used to communicate on the internet and it also have basic set of rules.
+         
+ * HTTP1.1 is like sending message one after another. but it is slow compared to HTTP2 beacause it deals with tashk in a somewhat sequential manner.
+
+HTTP2 : 
+
+ * It is newer and faster way to communicate on the internet.
+ 
+ * It can send multiple message at the same time and it is capable of allowing for quicker and more efficient data exchange between computer.
+
+ * It is upgraded version designed to make the web faster and more responsive.
+
+
+2)Write a blog about objects and its internal representation in Javascript
+
+ * Array and objects are used to store multiple values but in array we can't give name for element but in object we can reference by an name.
+
+           for example,
+
+           const muthu = {
+              name = "MuthuKumaran",
+              age = 23,
+              learning = "Full stack development"}
+
+ * Arrays for ordered data and objects for unordered data. order of property doesn't matter in object.
+ 
+ Dot vs Bracket Notation 
+
+ * This is used to retrive and add the data in object.
+ 
+ * The Dot Notation is straight forward.
+ 
+ * In Bracket Notation we can use expression also.
+
+3)codekata practice
+
+ * Codekata is very usefull to practice to code and in different concepts we can able to code.
+
+ * In Input/output all problems I have completed and in Absolute Beginner out of 30 problems 28 problems completed.
+
+4)Read about IP address, port, HTTP methods, MAC address	
+
+ IP Address : 
+
+ * On our computer if we need to see google webpage means we will type www.google.com and it will give google page.
+
+ * Now, How it works? First of all every website has it's own or unique IP address. the browser will send the message to ISP (internet service provider). This people only providing internet access to all and paying for them only.
+
+* Now, the ISP will send the message to DNS Server(Domain Name System) this will look into the database to find the exact IP address. Once done it will send back to our browser.
+
+Port :
+
+Web server ports are the logical endpoints of a network connection that is used to exchange information between a web server and a web client. These ports are assigned a unique number to identify them separately.
+
+HTTP Method : 
+
+* GET: Ask for information. It's like saying, "Hey, give me that webpage!"
+
+* POST: Send information to be added. Imagine filling out a form online and clicking "Submit."
+
+* PUT: Send information to replace something. It's like updating your profile picture.
+
+* DELETE: Ask to remove something. Similar to deleting a file from your computer.
+
+* HEAD: Ask for information, but only the headers (the basic details) without the actual content. It's like checking the title of a book without reading the whole thing.
+
+* OPTIONS: Ask the server about the capabilities of a resource. It's like checking what services a restaurant offers before going in.
+
+* PATCH: Send partial information to update something. It's like fixing a small part of a document without rewriting the whole thing.
+
+* TRACE: Ask the server to show how it's processing the request. It's like following the steps of a recipe to see how the dish is made.
+
+MAC Address : 
+
+A MAC (Media Access Control) address, sometimes referred to as a hardware or physical address, is a unique, 12-character alphanumeric attribute that is used to identify individual electronic devices on a network
